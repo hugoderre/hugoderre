@@ -1,5 +1,5 @@
 ### Hi there 👋
-I just cleaned up my Github account! 🔭 <b>
+I just cleaned up my Github account! 🔭 <br>
 Now public repositories will be more relevant, at least I hope so! 😄
 
 <!--
