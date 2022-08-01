@@ -1,6 +1,4 @@
 ### Hi there 👋
-I just cleaned up my Github account! 🔭 <br>
-Now public repositories will be more relevant!
 
 <!--
 **hugoderre/hugoderre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
