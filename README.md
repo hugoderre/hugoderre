@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Voici mon blog où tu pourras retrouver differents articles sur le sujet du développement web ainsi que des projets personnels !
+➡️ https://hugoderre.fr
 <!--
 **hugoderre/hugoderre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
