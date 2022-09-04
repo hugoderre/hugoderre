@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 J'ai créé un blog où tu pourras retrouver différents articles sur des sujets autour du développement web ainsi que des projets personnels ! 📝<br>
 ➡️ https://hugoderre.fr ⬅️<br>
 (Le site est bientôt en prod!)
